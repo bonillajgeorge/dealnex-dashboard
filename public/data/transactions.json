@@ -1,0 +1,21 @@
+[
+    {
+      "transactionName": "Project Argon",
+      "dealStructure": "Merger",
+      "industrySector": "Healthcare",
+      "buyersCounsel": "Weiss & Shore LLP",
+      "sellersCounsel": "Nelson, Wallace, & Brooks LLP",
+      "buyer": "D Corp",
+      "seller": "W Corp"
+    },
+    {
+      "transactionName": "Project Mega",
+      "dealStructure": "Asset Purchase",
+      "industrySector": "Financial Services",
+      "buyersCounsel": "GDPR LLP",
+      "sellersCounsel": "Reed & Parker LLP",
+      "buyer": "A Corp",
+      "seller": "X Corp"
+    }
+  ]
+  
